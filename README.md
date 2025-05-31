@@ -30,3 +30,12 @@ Dashboard Interaction <a href="https://github.com/BerniAmdan/baanalytics.github.
 - At $147,739.5, Accessories had the highest revenue and was 111.36% higher than Footwear, which had the lowest revenue at $69,900.
 - ﻿Accessories had the highest revenue at $147,739.5, followed by Clothing at $70,818 and Footwear at $69,900, representing 51.22%, 24.55%, and 24.23% respectively.
 - Across all 10 products, revenue ranged from $12,150 to $24,000.
+
+  ## Recommendations
+- Investigate revenue decline trend: Review marketing activity, stock levels, and promotional effectiveness during this period; Assess customer behavior data (e.g., website traffic, cart abandonment, complaints); and perform root-cause analysis where there are external factors (e.g. supply issues, post-holiday slowdown)
+- Strengthening revenue drivers like Accessories: Allocate more marketing spend and inventory to Accessories; Explore bundling Accessories with lower-performing categories (e.g., bundle with Footwear); and identify top-performing SKUs within Accessories and expand or promote them.
+- Revitalising low performers: Assess product design, pricing, and placement—are they appealing to your target market?; Offer time-limited discounts or style refresh campaigns; and solicit customer feedback on product satisfaction or barriers to purchase.
+- Leveraging product-level revenue range: Analyze the price-to-revenue relationship: Are lower-revenue products underpriced or under-promoted? Consider phasing out bottom performers or repositioning them, and upselling from lower-tier to higher-performing items with tiered pricing.
+- Strengthening weekday demand: Introducing weekday-only offers or loyalty point multipliers; running email/social campaigns targeted at mid-week engagement; and optimizing operating hours or fulfillment for weekday patterns.
+- Setting up real-time revenue monitoring using dashboards: Set alerts for rapid drops (like the Jan 3–5 event) to allow for quicker reaction; track promotional effectiveness and conversion rates by product category.
+
