@@ -14,3 +14,9 @@ A fashion boutique aiming to stay ahead in competition by leveraging data-driven
 - List of customers with their revenue and quantity purchased.
 
 Dashboard Interaction <a href="https://github.com/BerniAmdan/baanalytics.github.io/blob/main/Dashboard.png](https://github.com/BerniAmdan/Aurora-Thread-Dashboard/blob/main/Aurora%20Boutique%20Dashboard.pbix">View Dashboard</a>
+
+## Process
+- Used Power Query editor to check data integrity, apply appropriate data type, and sort the needed columns.
+- Used M Language for product categorisation and distribution into new columns.
+- Used DAX calculated column and measure to calculate total quantity sold, revenue, transaction weekday, and average revenue.
+- Built visualisation and implemented slicers for dashboard interaction.
