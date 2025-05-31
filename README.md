@@ -13,4 +13,4 @@ A fashion boutique aiming to stay ahead in competition by leveraging data-driven
 - Which payment types are most popular?
 - List of customers with their revenue and quantity purchased.
 
-Dashboard Interaction <a href="https://github.com/BerniAmdan/baanalytics.github.io/blob/main/Dashboard.png">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/BerniAmdan/baanalytics.github.io/blob/main/Dashboard.png](https://github.com/BerniAmdan/Aurora-Thread-Dashboard/blob/main/Aurora%20Boutique%20Dashboard.pbix">View Dashboard</a>
