@@ -24,3 +24,9 @@ Dashboard Interaction <a href="https://github.com/BerniAmdan/baanalytics.github.
   ## Dashboard
 ![Aurora Boutique Dashboard](https://github.com/user-attachments/assets/5f1600ac-b26f-48ed-86fd-d9773017a5f1)
 
+## Project Insight
+- Revenue trended down, resulting in a 43.16% decrease between Monday, January 1, 2024, and Wednesday, January 31, 2024.
+- ﻿On Wednesday, January 3, 2024, revenue started trending down, falling by 55.00% ($3,960) in 2 days.
+- At $147,739.5, Accessories had the highest revenue and was 111.36% higher than Footwear, which had the lowest revenue at $69,900.
+- ﻿Accessories had the highest revenue at $147,739.5, followed by Clothing at $70,818 and Footwear at $69,900, representing 51.22%, 24.55%, and 24.23% respectively.
+- Across all 10 products, revenue ranged from $12,150 to $24,000.
