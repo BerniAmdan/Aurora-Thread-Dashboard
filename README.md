@@ -20,3 +20,7 @@ Dashboard Interaction <a href="https://github.com/BerniAmdan/baanalytics.github.
 - Used M Language for product categorisation and distribution into new columns.
 - Used DAX calculated column and measure to calculate total quantity sold, revenue, transaction weekday, and average revenue.
 - Built visualisation and implemented slicers for dashboard interaction.
+
+  ## Dashboard
+![Aurora Boutique Dashboard](https://github.com/user-attachments/assets/5f1600ac-b26f-48ed-86fd-d9773017a5f1)
+
